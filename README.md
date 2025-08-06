@@ -1,2 +1,2 @@
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KasperBaun&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KasperBaun&theme=dark&hide_border=false)](https://streak-stats.demolab.com)
